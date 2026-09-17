@@ -63,7 +63,7 @@ function render(list) {
 
   grid.appendChild(frag);
   count.textContent = list.length === streamers.length
-    ? `共 ${streamers.length} 位主播`
+    ? `共 ${streamers.length} 位爱播`
     : `找到 ${list.length} / ${streamers.length} 位`;
   empty.hidden = list.length !== 0;
 }
@@ -85,7 +85,7 @@ function applySearch() {
 
 async function init() {
   try {
-    const response = await fetch('streamers.json', { cache: 'no-store' });
+    const response = await fetch('aibomen.json', { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
     streamers = Array.isArray(data.streamers) ? data.streamers : [];
@@ -94,7 +94,7 @@ async function init() {
     console.error(error);
     count.textContent = '载入失败';
     empty.hidden = false;
-    empty.textContent = '无法读取 streamers.json，请检查文件。';
+    empty.textContent = '无法读取 aibomen.json，请检查文件。';
   }
 }
 

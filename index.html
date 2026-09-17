@@ -4,32 +4,32 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
   <meta name="theme-color" content="#f7f5fb" />
-  <meta name="description" content="虚拟主播歌单导航，选择主播进入其独立歌单页面。" />
-  <title>虚拟主播歌单导航</title>
+  <meta name="description" content="子咸的朋友们 · 爱播们歌单导航" />
+  <title>子咸的朋友们 · 爱播们</title>
   <link rel="stylesheet" href="hub.css" />
 </head>
 <body>
   <main class="shell">
     <header class="hero">
-      <p class="eyebrow">VTUBER SONG LIST</p>
-      <h1>虚拟主播歌单</h1>
-      <p class="subtitle">选择主播进入独立歌单页面。每位主播拥有自己的分类方式与页面内容。</p>
+      <p class="eyebrow">ZIXIAN'S FRIENDS</p>
+      <h1>子咸的朋友们</h1>
+      <p class="subtitle">这里收录爱播们的独立歌单。点击对应主播即可直接进入其页面。</p>
     </header>
 
     <section class="toolbar" aria-label="主播筛选">
       <label class="search-box">
         <span aria-hidden="true">⌕</span>
-        <input id="streamerSearch" type="search" placeholder="搜索主播…" autocomplete="off" />
+        <input id="streamerSearch" type="search" placeholder="搜索爱播…" autocomplete="off" />
       </label>
       <p id="streamerCount" class="count">正在载入…</p>
     </section>
 
     <section>
       <div id="streamerGrid" class="streamer-grid" aria-live="polite"></div>
-      <div id="emptyState" class="empty" hidden>没有找到对应主播</div>
+      <div id="emptyState" class="empty" hidden>没有找到对应爱播</div>
     </section>
 
-    <footer class="footer">歌单内容由各主播独立维护</footer>
+    <footer class="footer">每位爱播拥有自己的独立歌单页面与分类方式</footer>
   </main>
 
   <script src="hub.js" defer></script>
