@@ -1,0 +1,14 @@
+{
+  "siteName": "虚拟主播歌单",
+  "streamers": [
+    {
+      "id": "aoi-yui",
+      "name": "苍井结衣_",
+      "avatar": "streamers/aoi-yui/avatar.png",
+      "url": "streamers/aoi-yui/",
+      "description": "J-POP · 术力口 · 游戏动漫 · 中文",
+      "status": "歌单已上线",
+      "keywords": ["苍井结衣", "aoi", "yui", "歌单", "点歌"]
+    }
+  ]
+}
