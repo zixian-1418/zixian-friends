@@ -48,6 +48,11 @@
 
 `https://zixian-1418.github.io/zixian-friends/aibomen/riyu/`
 
+## 头像规范
+
+- 主播头像统一使用高质量 WebP，建议尺寸 384×384。
+- 文件名统一使用 `avatar.webp`，便于总站和主播页面维护。
+
 ## 维护建议
 
 - 主播自己的素材只放在对应的 `aibomen/<id>/` 中，不要在仓库根目录重复保存。

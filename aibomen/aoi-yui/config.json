@@ -1,7 +1,7 @@
 {
   "id": "aoi-yui",
   "name": "苍井结衣_",
-  "avatar": "avatar.png",
+  "avatar": "avatar.webp",
   "playlist": "playlist.json",
   "bilibili": "https://space.bilibili.com/3690995092817990",
   "note": "该主播拥有独立歌单结构，可单独修改 index.html、style.css、script.js 与 playlist.json。"
