@@ -1,25 +1,82 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#dce9ff"><meta name="description" content="莉由_riyu 的个人点歌单">
-<title>莉由_riyu · 点歌单</title><link rel="icon" href="avatar.png"><link rel="stylesheet" href="style.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#d9e8ff" />
+  <meta name="description" content="莉由_riyu 的个人点歌单" />
+  <title>莉由_riyu · 点歌单</title>
+  <link rel="icon" href="avatar.webp" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-<div class="bg-orb orb-a"></div><div class="bg-orb orb-b"></div><div class="bg-orb orb-c"></div>
-<main class="shell">
-<header class="profile panel">
-<img class="avatar" src="avatar.png" alt="莉由_riyu头像">
-<div class="profile-copy"><p class="eyebrow">SONG LIST</p><h1>莉由_riyu</h1><p class="tagline">今天想听哪一首？❄</p>
-<div class="profile-links"><a class="link-button" href="../../">全部主播</a></div></div>
-<div class="summary"><strong id="totalCount">--</strong><span>首歌曲</span></div>
-</header>
-<section class="controls panel">
-<div class="search-row"><label class="search-box"><span>⌕</span><input id="searchInput" type="search" placeholder="搜索歌名 / 歌手 / 分类…" autocomplete="off"></label><button id="randomBtn" class="primary-button" type="button">🎲 随机选歌</button></div>
-<div class="filter-row"><div id="genreFilters" class="chips"></div><div class="view-switch"><button id="listViewBtn" type="button" class="view-button active" title="列表模式">☷</button><button id="gridViewBtn" type="button" class="view-button" title="卡片模式">▦</button></div></div>
-</section>
-<section class="list-section"><div class="list-head"><p id="resultText">正在载入歌单…</p><p class="hint">点击歌曲即可复制「点歌 歌名」</p></div><div id="songList" class="song-list list-view"></div><div id="emptyState" class="empty panel" hidden><div class="empty-icon">♪</div><p>没有找到符合条件的歌曲</p></div></section>
-</main>
-<div id="toast" class="toast"></div>
-<dialog id="randomDialog" class="random-dialog"><form method="dialog" class="random-card"><button class="dialog-close" value="close">×</button><p class="eyebrow">RANDOM PICK</p><h2 id="randomTitle">随机歌曲</h2><p id="randomMeta"></p><div class="dialog-actions"><button id="copyRandomBtn" type="button" class="primary-button">复制点歌</button><button id="againBtn" type="button" class="soft-button">再抽一次</button></div></form></dialog>
-<script src="script.js" defer></script></body></html>
+  <div class="bg-orb orb-a"></div>
+  <div class="bg-orb orb-b"></div>
+  <div class="bg-orb orb-c"></div>
+
+  <main class="shell">
+    <header class="profile panel">
+      <img class="avatar" src="avatar.webp" alt="莉由_riyu头像" />
+      <div class="profile-copy">
+        <p class="eyebrow">SONG LIST</p>
+        <h1>莉由_riyu</h1>
+        <p class="tagline">今天想听哪一首？❄️</p>
+        <div class="profile-links">
+          <a class="link-button" href="../../">全部主播</a>
+        </div>
+      </div>
+      <div class="summary" aria-label="歌曲统计">
+        <strong id="totalCount">--</strong>
+        <span>首歌曲</span>
+      </div>
+    </header>
+
+    <section class="controls panel" aria-label="歌单筛选">
+      <div class="search-row">
+        <label class="search-box">
+          <span aria-hidden="true">⌕</span>
+          <input id="searchInput" type="search" placeholder="搜索歌名 / 歌手 / 分类…" autocomplete="off" />
+        </label>
+        <button id="randomBtn" class="primary-button" type="button">🎲 随机选歌</button>
+      </div>
+
+      <div class="filter-row">
+        <div id="genreFilters" class="chips" aria-label="分类"></div>
+        <div class="view-switch" aria-label="显示方式">
+          <button id="listViewBtn" type="button" class="view-button active" title="列表模式">☷</button>
+          <button id="gridViewBtn" type="button" class="view-button" title="卡片模式">▦</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="list-section">
+      <div class="list-head">
+        <p id="resultText">正在载入歌单…</p>
+        <p class="hint">点击歌曲即可复制「点歌 歌名」</p>
+      </div>
+      <div id="songList" class="song-list list-view" aria-live="polite"></div>
+      <div id="emptyState" class="empty panel" hidden>
+        <div class="empty-icon">♪</div>
+        <p>没有找到符合条件的歌曲</p>
+      </div>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <dialog id="randomDialog" class="random-dialog">
+    <form method="dialog" class="random-card">
+      <button class="dialog-close" value="close" aria-label="关闭">×</button>
+      <p class="eyebrow">RANDOM PICK</p>
+      <h2 id="randomTitle">随机歌曲</h2>
+      <p id="randomMeta"></p>
+      <div class="dialog-actions">
+        <button id="copyRandomBtn" type="button" class="primary-button">复制点歌</button>
+        <button id="againBtn" type="button" class="soft-button">再抽一次</button>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="script.js" defer></script>
+</body>
+</html>

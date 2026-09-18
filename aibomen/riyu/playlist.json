@@ -1,876 +1,408 @@
 {
   "title": "莉由_riyu 歌单",
-  "description": "点击歌曲即可复制点歌内容",
-  "items": [
-    {
-      "title": "天若有情",
-      "artist": "A-Lin",
-      "genre": "中文"
-    },
-    {
-      "title": "无人知晓的我",
-      "artist": "A-Lin",
-      "genre": "中文"
-    },
-    {
-      "title": "世界上的另一个我",
-      "artist": "阿肆",
-      "genre": "中文"
-    },
-    {
-      "title": "红色高跟鞋",
-      "artist": "蔡健雅",
-      "genre": "中文"
-    },
-    {
-      "title": "LETTING GO",
-      "artist": "蔡健雅",
-      "genre": "中文"
-    },
-    {
-      "title": "越来越不懂",
-      "artist": "蔡健雅",
-      "genre": "中文"
-    },
-    {
-      "title": "情人",
-      "artist": "蔡徐坤",
-      "genre": "中文"
-    },
-    {
-      "title": "日不落",
-      "artist": "蔡依林",
-      "genre": "中文"
-    },
-    {
-      "title": "说爱你",
-      "artist": "蔡依林",
-      "genre": "中文"
-    },
-    {
-      "title": "寂寞寂寞不好",
-      "artist": "曹格",
-      "genre": "中文"
-    },
-    {
-      "title": "青衣",
-      "artist": "尘 ah.",
-      "genre": "中文"
-    },
-    {
-      "title": "绝对占有相对自由",
-      "artist": "陈粒",
-      "genre": "中文"
-    },
-    {
-      "title": "小半",
-      "artist": "陈粒",
-      "genre": "中文"
-    },
-    {
-      "title": "走马",
-      "artist": "陈粒",
-      "genre": "中文"
-    },
-    {
-      "title": "after 17",
-      "artist": "陈绮贞",
-      "genre": "中文"
-    },
-    {
-      "title": "还是会寂寞",
-      "artist": "陈绮贞",
-      "genre": "中文"
-    },
-    {
-      "title": "太聪明",
-      "artist": "陈绮贞",
-      "genre": "中文"
-    },
-    {
-      "title": "孤勇者",
-      "artist": "陈奕迅",
-      "genre": "中文"
-    },
-    {
-      "title": "孤独患者",
-      "artist": "陈奕迅",
-      "genre": "中文"
-    },
-    {
-      "title": "十年",
-      "artist": "陈奕迅",
-      "genre": "中文"
-    },
-    {
-      "title": "因为爱情（陈奕迅/王菲）",
-      "artist": "陈奕迅",
-      "genre": "中文"
-    },
-    {
-      "title": "童话镇",
-      "artist": "陈一发儿",
-      "genre": "中文"
-    },
-    {
-      "title": "心似烟火",
-      "artist": "陈壹千",
-      "genre": "中文"
-    },
-    {
-      "title": "爱人",
-      "artist": "邓丽君",
-      "genre": "中文"
-    },
-    {
-      "title": "多远都要在一起",
-      "artist": "邓紫棋",
-      "genre": "中文"
-    },
-    {
-      "title": "光年之外",
-      "artist": "邓紫棋",
-      "genre": "中文"
-    },
-    {
-      "title": "泡沫",
-      "artist": "邓紫棋",
-      "genre": "中文"
-    },
-    {
-      "title": "桃花诺",
-      "artist": "邓紫棋",
-      "genre": "中文"
-    },
-    {
-      "title": "浴室",
-      "artist": "deca joins",
-      "genre": "中文"
-    },
-    {
-      "title": "人鱼的眼泪",
-      "artist": "EXO",
-      "genre": "中文"
-    },
-    {
-      "title": "特别的人",
-      "artist": "方大同",
-      "genre": "中文"
-    },
-    {
-      "title": "麦恩莉",
-      "artist": "方大同",
-      "genre": "中文"
-    },
-    {
-      "title": "爱爱爱",
-      "artist": "方大同",
-      "genre": "中文"
-    },
-    {
-      "title": "Love Song",
-      "artist": "方大同",
-      "genre": "中文"
-    },
-    {
-      "title": "BB88",
-      "artist": "方大同",
-      "genre": "中文"
-    },
-    {
-      "title": "荷塘月色",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "郎的诱惑",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "全是爱",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "奢香夫人",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "我从草原来",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "月亮之上",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "自由飞翔",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "自由自在",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "最炫民族风",
-      "artist": "凤凰传奇",
-      "genre": "中文"
-    },
-    {
-      "title": "可怜",
-      "artist": "FIESTAR",
-      "genre": "中文"
-    },
-    {
-      "title": "我用什么把你留住",
-      "artist": "福禄寿 FloruitShow",
-      "genre": "中文"
-    },
-    {
-      "title": "马",
-      "artist": "福禄寿 FloruitShow",
-      "genre": "中文"
-    },
-    {
-      "title": "空心",
-      "artist": "光泽",
-      "genre": "中文"
-    },
-    {
-      "title": "保留",
-      "artist": "郭顶",
-      "genre": "中文"
-    },
-    {
-      "title": "心墙",
-      "artist": "郭静",
-      "genre": "中文"
-    },
-    {
-      "title": "我的未来式",
-      "artist": "郭采洁",
-      "genre": "中文"
-    },
-    {
-      "title": "别问很可怕",
-      "artist": "J. Sheon",
-      "genre": "中文"
-    },
-    {
-      "title": "输情歌",
-      "artist": "J. Sheon",
-      "genre": "中文"
-    },
-    {
-      "title": "你看世界好美",
-      "artist": "卡拉彼丘/宴宁",
-      "genre": "中文"
-    },
-    {
-      "title": "阿拉斯加海湾",
-      "artist": "蓝心羽",
-      "genre": "中文"
-    },
-    {
-      "title": "世末歌者",
-      "artist": "乐正绫",
-      "genre": "中文"
-    },
-    {
-      "title": "恋人",
-      "artist": "李荣浩",
-      "genre": "中文"
-    },
-    {
-      "title": "慢冷",
-      "artist": "梁静茹",
-      "genre": "中文"
-    },
-    {
-      "title": "暖暖",
-      "artist": "梁静茹",
-      "genre": "中文"
-    },
-    {
-      "title": "情歌",
-      "artist": "梁静茹",
-      "genre": "中文"
-    },
-    {
-      "title": "Always Online",
-      "artist": "林俊杰",
-      "genre": "中文"
-    },
-    {
-      "title": "美人鱼",
-      "artist": "林俊杰",
-      "genre": "中文"
-    },
-    {
-      "title": "江南",
-      "artist": "林俊杰",
-      "genre": "中文"
-    },
-    {
-      "title": "不潮不用花钱",
-      "artist": "林俊杰",
-      "genre": "中文"
-    },
-    {
-      "title": "修炼爱情",
-      "artist": "林俊杰",
-      "genre": "中文"
-    },
-    {
-      "title": "同花顺",
-      "artist": "林倛玉",
-      "genre": "中文"
-    },
-    {
-      "title": "若把你",
-      "artist": "刘瑾睿",
-      "genre": "中文"
-    },
-    {
-      "title": "后来",
-      "artist": "刘若英",
-      "genre": "中文"
-    },
-    {
-      "title": "我爱你",
-      "artist": "卢广仲",
-      "genre": "中文"
-    },
-    {
-      "title": "东京不太热",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "干物女",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "勾指起誓",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "深夜诗人",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "我的悲伤是水做的",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "写给我第一个喜欢的女孩的歌",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "白石溪（与乐正绫）",
-      "artist": "洛天依",
-      "genre": "中文"
-    },
-    {
-      "title": "不值得",
-      "artist": "梦飞船",
-      "genre": "中文"
-    },
-    {
-      "title": "慢慢喜欢你",
-      "artist": "莫文蔚",
-      "genre": "中文"
-    },
-    {
-      "title": "这世界那么多人",
-      "artist": "莫文蔚",
-      "genre": "中文"
-    },
-    {
-      "title": "默",
-      "artist": "那英",
-      "genre": "中文"
-    },
-    {
-      "title": "如果爱忘了",
-      "artist": "戚薇",
-      "genre": "中文"
-    },
-    {
-      "title": "最后的旅行",
-      "artist": "Rainton 桐",
-      "genre": "中文"
-    },
-    {
-      "title": "没关系",
-      "artist": "容祖儿",
-      "genre": "中文"
-    },
-    {
-      "title": "讨厌",
-      "artist": "芮恩",
-      "genre": "中文"
-    },
-    {
-      "title": "快乐的扑满",
-      "artist": "邵丽棠",
-      "genre": "中文"
-    },
-    {
-      "title": "小情歌",
-      "artist": "苏打绿",
-      "genre": "中文"
-    },
-    {
-      "title": "天黑黑",
-      "artist": "孙燕姿",
-      "genre": "中文"
-    },
-    {
-      "title": "我怀念的",
-      "artist": "孙燕姿",
-      "genre": "中文"
-    },
-    {
-      "title": "遇见",
-      "artist": "孙燕姿",
-      "genre": "中文"
-    },
-    {
-      "title": "讨厌红楼梦",
-      "artist": "陶喆",
-      "genre": "中文"
-    },
-    {
-      "title": "你就不要想起我",
-      "artist": "田馥甄",
-      "genre": "中文"
-    },
-    {
-      "title": "小幸运",
-      "artist": "田馥甄",
-      "genre": "中文"
-    },
-    {
-      "title": "匆匆那年",
-      "artist": "王菲",
-      "genre": "中文"
-    },
-    {
-      "title": "如愿",
-      "artist": "王菲",
-      "genre": "中文"
-    },
-    {
-      "title": "因为爱情",
-      "artist": "王菲",
-      "genre": "中文"
-    },
-    {
-      "title": "爱错",
-      "artist": "王力宏",
-      "genre": "中文"
-    },
-    {
-      "title": "唯一",
-      "artist": "王力宏",
-      "genre": "中文"
-    },
-    {
-      "title": "离开我的依赖",
-      "artist": "王艳薇",
-      "genre": "中文"
-    },
-    {
-      "title": "无情画",
-      "artist": "王唯旖",
-      "genre": "中文"
-    },
-    {
-      "title": "我在纽约打电话给你",
-      "artist": "魏如萱",
-      "genre": "中文"
-    },
-    {
-      "title": "Last Dance",
-      "artist": "伍佰 & China Blue",
-      "genre": "中文"
-    },
-    {
-      "title": "到时说爱我",
-      "artist": "茜拉",
-      "genre": "中文"
-    },
-    {
-      "title": "爱的主打歌",
-      "artist": "萧亚轩",
-      "genre": "中文"
-    },
-    {
-      "title": "表白",
-      "artist": "萧亚轩",
-      "genre": "中文"
-    },
-    {
-      "title": "爱要坦荡荡",
-      "artist": "萧潇",
-      "genre": "中文"
-    },
-    {
-      "title": "身骑白马",
-      "artist": "徐佳莹",
-      "genre": "中文"
-    },
-    {
-      "title": "坏女孩",
-      "artist": "徐良",
-      "genre": "中文"
-    },
-    {
-      "title": "素颜",
-      "artist": "许嵩/何曼婷",
-      "genre": "中文"
-    },
-    {
-      "title": "丑八怪",
-      "artist": "薛之谦",
-      "genre": "中文"
-    },
-    {
-      "title": "雨爱",
-      "artist": "杨丞琳",
-      "genre": "中文"
-    },
-    {
-      "title": "凉凉",
-      "artist": "杨宗纬/张碧晨",
-      "genre": "中文"
-    },
-    {
-      "title": "等风来",
-      "artist": "银河快递",
-      "genre": "中文"
-    },
-    {
-      "title": "红昭愿",
-      "artist": "音阙诗听/王梓钰",
-      "genre": "中文"
-    },
-    {
-      "title": "牵丝戏",
-      "artist": "银临/aki 阿杰",
-      "genre": "中文"
-    },
-    {
-      "title": "锦鲤抄",
-      "artist": "银临/云の泣",
-      "genre": "中文"
-    },
-    {
-      "title": "和你",
-      "artist": "余佳运",
-      "genre": "中文"
-    },
-    {
-      "title": "蠢货",
-      "artist": "喻言",
-      "genre": "中文"
-    },
-    {
-      "title": "时间煮雨",
-      "artist": "郁可唯",
-      "genre": "中文"
-    },
-    {
-      "title": "说散就散",
-      "artist": "袁娅维/陈泳彤",
-      "genre": "中文"
-    },
-    {
-      "title": "心愿便利贴",
-      "artist": "元若蓝/吴忠明",
-      "genre": "中文"
-    },
-    {
-      "title": "春泥",
-      "artist": "庾澄庆",
-      "genre": "中文"
-    },
-    {
-      "title": "年轮",
-      "artist": "张碧晨",
-      "genre": "中文"
-    },
-    {
-      "title": "血腥爱情故事",
-      "artist": "张惠妹",
-      "genre": "中文"
-    },
-    {
-      "title": "他不懂",
-      "artist": "张杰",
-      "genre": "中文"
-    },
-    {
-      "title": "偏爱",
-      "artist": "张芸京",
-      "genre": "中文"
-    },
-    {
-      "title": "可乐",
-      "artist": "赵紫骅",
-      "genre": "中文"
-    },
-    {
-      "title": "简单爱",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "可爱女人",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "等你下课",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "告白气球",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "反方向的钟",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "爱在西元前",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "给我一首歌的时间",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "暗号",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "龙卷风",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "烟花易冷",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "晴天",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "兰亭序",
-      "artist": "周杰伦",
-      "genre": "中文"
-    },
-    {
-      "title": "大鱼",
-      "artist": "周深",
-      "genre": "中文"
-    },
-    {
-      "title": "永不失联的爱",
-      "artist": "周兴哲",
-      "genre": "中文"
-    },
-    {
-      "title": "好想你",
-      "artist": "朱主爱",
-      "genre": "中文"
-    },
-    {
-      "title": "I hate you so much",
-      "artist": "Alexander 23",
-      "genre": "英文"
-    },
-    {
-      "title": "If I ain’t got you",
-      "artist": "Alicia Keys",
-      "genre": "英文"
-    },
-    {
-      "title": "wish you were a gay",
-      "artist": "Billie Eilish",
-      "genre": "英文"
-    },
-    {
-      "title": "six feet under",
-      "artist": "Billie Eilish",
-      "genre": "英文"
-    },
-    {
-      "title": "just the two of us",
-      "artist": "Bill Withers & Grover Washington Jr.",
-      "genre": "英文"
-    },
-    {
-      "title": "freezing",
-      "artist": "Bren Joy",
-      "genre": "英文"
-    },
-    {
-      "title": "Call me maybe",
-      "artist": "Carly Rae Jepsen",
-      "genre": "英文"
-    },
-    {
-      "title": "Take my hand",
-      "artist": "DAISHI DANCE/C é cile Corbel",
-      "genre": "英文"
-    },
-    {
-      "title": "Love me like you do",
-      "artist": "Ellie Goulding",
-      "genre": "英文"
-    },
-    {
-      "title": "flower",
-      "artist": "Johnny Stimson",
-      "genre": "英文"
-    },
-    {
-      "title": "Baby",
-      "artist": "Justin Bieber",
-      "genre": "英文"
-    },
-    {
-      "title": "Off my face",
-      "artist": "Justin Bieber",
-      "genre": "英文"
-    },
-    {
-      "title": "Fallin’ Out",
-      "artist": "Keyshia Cole",
-      "genre": "英文"
-    },
-    {
-      "title": "beneath the mask",
-      "artist": "Lyn",
-      "genre": "英文"
-    },
-    {
-      "title": "Time machine",
-      "artist": "mj apanay/aren park",
-      "genre": "英文"
-    },
-    {
-      "title": "love story",
-      "artist": "Taylor Swift",
-      "genre": "英文"
-    },
-    {
-      "title": "瞬き",
-      "artist": "back number",
-      "genre": "日文"
-    },
-    {
-      "title": "打上花火",
-      "artist": "DAOKO × 米津玄師",
-      "genre": "日文"
-    },
-    {
-      "title": "心做し",
-      "artist": "GUMI/まじ娘",
-      "genre": "日文"
-    },
-    {
-      "title": "Pretender",
-      "artist": "Official 髭男 dism",
-      "genre": "日文"
-    },
-    {
-      "title": "踊り子",
-      "artist": "Vaundy",
-      "genre": "日文"
-    },
-    {
-      "title": "one last kiss",
-      "artist": "宇多田ヒカル",
-      "genre": "日文"
-    },
-    {
-      "title": "香水",
-      "artist": "瑛人",
-      "genre": "日文"
-    },
-    {
-      "title": "丸ノ内サディスティック",
-      "artist": "椎名林檎",
-      "genre": "日文"
-    },
-    {
-      "title": "深昏睡",
-      "artist": "春野",
-      "genre": "日文"
-    },
-    {
-      "title": "妄想税",
-      "artist": "初音ミク",
-      "genre": "日文"
-    },
-    {
-      "title": "独りんぼエンヴィー",
-      "artist": "初音ミク",
-      "genre": "日文"
-    },
-    {
-      "title": "plastic love",
-      "artist": "竹内まりや",
-      "genre": "日文"
-    },
-    {
-      "title": "就寝御礼",
-      "artist": "PSYQUI",
-      "genre": "日文"
-    },
-    {
-      "title": "雨とカプチーノ",
-      "artist": "ヨルシカ",
-      "genre": "日文"
-    },
-    {
-      "title": "言っで",
-      "artist": "ヨルシカ",
-      "genre": "日文"
-    },
-    {
-      "title": "星と僕らと",
-      "artist": "lyn",
-      "genre": "日文"
-    },
-    {
-      "title": "I wanna kill you",
-      "artist": "たかやん",
-      "genre": "日文"
+  "description": "按分类 → 歌手 → 歌曲整理",
+  "groups": {
+    "中文": {
+      "A-Lin": [
+        "天若有情",
+        "无人知晓的我"
+      ],
+      "阿肆": [
+        "世界上的另一个我"
+      ],
+      "蔡健雅": [
+        "红色高跟鞋",
+        "LETTING GO",
+        "越来越不懂"
+      ],
+      "蔡徐坤": [
+        "情人"
+      ],
+      "蔡依林": [
+        "日不落",
+        "说爱你"
+      ],
+      "曹格": [
+        "寂寞寂寞不好"
+      ],
+      "尘ah.": [
+        "青衣"
+      ],
+      "陈粒": [
+        "绝对占有相对自由",
+        "小半",
+        "走马"
+      ],
+      "陈绮贞": [
+        "after 17",
+        "还是会寂寞",
+        "太聪明"
+      ],
+      "陈奕迅": [
+        "孤勇者",
+        "孤独患者",
+        "十年",
+        "因为爱情（陈奕迅/王菲）"
+      ],
+      "陈一发儿": [
+        "童话镇"
+      ],
+      "陈壹千": [
+        "心似烟火"
+      ],
+      "邓丽君": [
+        "爱人"
+      ],
+      "邓紫棋": [
+        "多远都要在一起",
+        "光年之外",
+        "泡沫",
+        "桃花诺"
+      ],
+      "deca joins": [
+        "浴室"
+      ],
+      "EXO": [
+        "人鱼的眼泪"
+      ],
+      "方大同": [
+        "特别的人",
+        "麦恩莉",
+        "爱爱爱",
+        "Love Song",
+        "BB88"
+      ],
+      "凤凰传奇": [
+        "荷塘月色",
+        "郎的诱惑",
+        "全是爱",
+        "奢香夫人",
+        "我从草原来",
+        "月亮之上",
+        "自由飞翔",
+        "自由自在",
+        "最炫民族风"
+      ],
+      "FIESTAR": [
+        "可怜"
+      ],
+      "福禄寿 FloruitShow": [
+        "我用什么把你留住",
+        "马"
+      ],
+      "光泽": [
+        "空心"
+      ],
+      "郭顶": [
+        "保留"
+      ],
+      "郭静": [
+        "心墙"
+      ],
+      "郭采洁": [
+        "我的未来式"
+      ],
+      "J. Sheon": [
+        "别问很可怕",
+        "输情歌"
+      ],
+      "卡拉彼丘/宴宁": [
+        "你看世界好美"
+      ],
+      "蓝心羽": [
+        "阿拉斯加海湾"
+      ],
+      "乐正绫": [
+        "世末歌者"
+      ],
+      "李荣浩": [
+        "恋人"
+      ],
+      "梁静茹": [
+        "慢冷",
+        "暖暖",
+        "情歌"
+      ],
+      "林俊杰": [
+        "Always Online",
+        "美人鱼",
+        "江南",
+        "不潮不用花钱",
+        "修炼爱情"
+      ],
+      "林倛玉": [
+        "同花顺"
+      ],
+      "刘瑾睿": [
+        "若把你"
+      ],
+      "刘若英": [
+        "后来"
+      ],
+      "卢广仲": [
+        "我爱你"
+      ],
+      "洛天依": [
+        "东京不太热",
+        "干物女",
+        "勾指起誓",
+        "深夜诗人",
+        "我的悲伤是水做的",
+        "写给我第一个喜欢的女孩的歌",
+        "白石溪（与乐正绫）"
+      ],
+      "梦飞船": [
+        "不值得"
+      ],
+      "莫文蔚": [
+        "慢慢喜欢你",
+        "这世界那么多人"
+      ],
+      "那英": [
+        "默"
+      ],
+      "戚薇": [
+        "如果爱忘了"
+      ],
+      "Rainton桐": [
+        "最后的旅行"
+      ],
+      "容祖儿": [
+        "没关系"
+      ],
+      "芮恩": [
+        "讨厌"
+      ],
+      "邵丽棠": [
+        "快乐的扑满"
+      ],
+      "苏打绿": [
+        "小情歌"
+      ],
+      "孙燕姿": [
+        "天黑黑",
+        "我怀念的",
+        "遇见"
+      ],
+      "陶喆": [
+        "讨厌红楼梦"
+      ],
+      "田馥甄": [
+        "你就不要想起我",
+        "小幸运"
+      ],
+      "王菲": [
+        "匆匆那年",
+        "如愿",
+        "因为爱情"
+      ],
+      "王力宏": [
+        "爱错",
+        "唯一"
+      ],
+      "王艳薇": [
+        "离开我的依赖"
+      ],
+      "王唯旖": [
+        "无情画"
+      ],
+      "魏如萱": [
+        "我在纽约打电话给你"
+      ],
+      "伍佰 & China Blue": [
+        "Last Dance"
+      ],
+      "茜拉": [
+        "到时说爱我"
+      ],
+      "萧亚轩": [
+        "爱的主打歌",
+        "表白"
+      ],
+      "萧潇": [
+        "爱要坦荡荡"
+      ],
+      "徐佳莹": [
+        "身骑白马"
+      ],
+      "徐良": [
+        "坏女孩"
+      ],
+      "许嵩/何曼婷": [
+        "素颜"
+      ],
+      "薛之谦": [
+        "丑八怪"
+      ],
+      "杨丞琳": [
+        "雨爱"
+      ],
+      "杨宗纬/张碧晨": [
+        "凉凉"
+      ],
+      "银河快递": [
+        "等风来"
+      ],
+      "音阙诗听/王梓钰": [
+        "红昭愿"
+      ],
+      "银临/aki阿杰": [
+        "牵丝戏"
+      ],
+      "银临/云の泣": [
+        "锦鲤抄"
+      ],
+      "余佳运": [
+        "和你"
+      ],
+      "喻言": [
+        "蠢货"
+      ],
+      "郁可唯": [
+        "时间煮雨"
+      ],
+      "袁娅维/陈泳彤": [
+        "说散就散"
+      ],
+      "元若蓝/吴忠明": [
+        "心愿便利贴"
+      ],
+      "庾澄庆": [
+        "春泥"
+      ],
+      "张碧晨": [
+        "年轮"
+      ],
+      "张惠妹": [
+        "血腥爱情故事"
+      ],
+      "张杰": [
+        "他不懂"
+      ],
+      "张芸京": [
+        "偏爱"
+      ],
+      "赵紫骅": [
+        "可乐"
+      ],
+      "周杰伦": [
+        "简单爱",
+        "可爱女人",
+        "等你下课",
+        "告白气球",
+        "反方向的钟",
+        "爱在西元前",
+        "给我一首歌的时间",
+        "暗号",
+        "龙卷风",
+        "烟花易冷",
+        "晴天",
+        "兰亭序"
+      ],
+      "周深": [
+        "大鱼"
+      ],
+      "周兴哲": [
+        "永不失联的爱"
+      ],
+      "朱主爱": [
+        "好想你"
+      ]
+    },
+    "英文": {
+      "Alexander 23": [
+        "I hate you so much"
+      ],
+      "Alicia Keys": [
+        "If I ain’t got you"
+      ],
+      "Billie Eilish": [
+        "wish you were a gay",
+        "six feet under"
+      ],
+      "Bill Withers & Grover Washington Jr.": [
+        "just the two of us"
+      ],
+      "Bren Joy": [
+        "freezing"
+      ],
+      "Carly Rae Jepsen": [
+        "Call me maybe"
+      ],
+      "DAISHI DANCE/C é cile Corbel": [
+        "Take my hand"
+      ],
+      "Ellie Goulding": [
+        "Love me like you do"
+      ],
+      "Johnny Stimson": [
+        "flower"
+      ],
+      "Justin Bieber": [
+        "Baby",
+        "Off my face"
+      ],
+      "Keyshia Cole": [
+        "Fallin’ Out"
+      ],
+      "Lyn": [
+        "beneath the mask"
+      ],
+      "mj apanay/aren park": [
+        "Time machine"
+      ],
+      "Taylor Swift": [
+        "love story"
+      ]
+    },
+    "日文": {
+      "back number": [
+        "瞬き"
+      ],
+      "DAOKO × 米津玄師": [
+        "打上花火"
+      ],
+      "GUMI/まじ娘": [
+        "心做し"
+      ],
+      "Official 髭男 dism": [
+        "Pretender"
+      ],
+      "Vaundy": [
+        "踊り子"
+      ],
+      "宇多田ヒカル": [
+        "one last kiss"
+      ],
+      "瑛人": [
+        "香水"
+      ],
+      "椎名林檎": [
+        "丸ノ内サディスティック"
+      ],
+      "春野": [
+        "深昏睡"
+      ],
+      "初音ミク": [
+        "妄想税",
+        "独りんぼエンヴィー"
+      ],
+      "竹内まりや": [
+        "plastic love"
+      ],
+      "PSYQUI": [
+        "就寝御礼"
+      ],
+      "ヨルシカ": [
+        "雨とカプチーノ",
+        "言っで"
+      ],
+      "lyn": [
+        "星と僕らと"
+      ],
+      "たかやん": [
+        "I wanna kill you"
+      ]
     }
-  ]
+  }
 }
