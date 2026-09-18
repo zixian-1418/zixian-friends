@@ -88,6 +88,11 @@ async function init() {
     const response = await fetch('aibomen.json', { cache: 'no-store' });
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const data = await response.json();
+    if (data.siteName) {
+      document.title = `${data.siteName} · 爱播们`;
+      const heading = document.querySelector('.hero h1');
+      if (heading) heading.textContent = data.siteName;
+    }
     streamers = Array.isArray(data.streamers) ? data.streamers : [];
     render(streamers);
   } catch (error) {

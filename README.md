@@ -2,35 +2,55 @@
 
 这是一个用于统一管理多个虚拟主播独立歌单页面的 GitHub Pages 仓库。
 
-## 结构
-- `index.html`：全部爱播总站
+## 当前结构
+
+- `index.html`：爱播们总站
 - `hub.css`：总站样式
 - `hub.js`：总站搜索与主播卡片逻辑
-- `aibomen.json`：全部爱播登记表
-- `aibomen/`：每位爱播的独立文件夹
+- `aibomen.json`：主播登记表
+- `aibomen/`：每位爱播的独立目录
+- `aibomen/index.html`：访问 `/aibomen/` 时返回总站
 
-当前示例：
-- `aibomen/aoi-yui/`：苍井结衣_ 的独立歌单页面
+当前主播：
 
-每位爱播都可以拥有自己独立的：
+- `aibomen/aoi-yui/`：苍井结衣_
+- `aibomen/riyu/`：莉由_riyu
+
+每位主播目录可以独立拥有：
+
 - `index.html`
 - `style.css`
 - `script.js`
 - `playlist.json`
-- `avatar.png`
+- `avatar.png` / `avatar.webp`
 - `config.json`
 
-因此不同主播可以使用完全不同的歌单分类方式与页面设计。
+这样不同主播可以使用不同的歌单分类和页面风格，同时由总站统一入口管理。
 
 ## 新增爱播
-1. 在 `aibomen/` 下新建一个主播文件夹，例如 `aeri/`。
-2. 把该主播自己的网页、头像和歌单文件放进去。
-3. 在根目录 `aibomen.json` 中增加该主播的信息、头像路径和页面地址。
+
+1. 在 `aibomen/` 下新建主播目录，例如 `aeri/`。
+2. 放入该主播自己的网页、头像和歌单文件。
+3. 在根目录 `aibomen.json` 的 `streamers` 数组里登记主播名称、头像路径、页面地址、简介与搜索关键词。
 4. Commit 后 GitHub Pages 会自动更新。
 
-## 推荐仓库名
-将仓库从 `aoi-yui-songlist` 重命名为 `zixian-friends` 后，总站地址会变为：
+## 页面地址
+
+总站：
+
 `https://zixian-1418.github.io/zixian-friends/`
 
-苍井结衣_ 的独立地址会变为：
+苍井结衣_：
+
 `https://zixian-1418.github.io/zixian-friends/aibomen/aoi-yui/`
+
+莉由_riyu：
+
+`https://zixian-1418.github.io/zixian-friends/aibomen/riyu/`
+
+## 维护建议
+
+- 主播自己的素材只放在对应的 `aibomen/<id>/` 中，不要在仓库根目录重复保存。
+- 修改歌单时只编辑对应主播目录里的 `playlist.json`。
+- 新增主播时记得同步更新 `aibomen.json`。
+- `config.json` 作为该主播的维护信息保留；当前网页运行不依赖它。
