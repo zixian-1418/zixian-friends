@@ -7,6 +7,7 @@
 - `index.html`：爱播们总站
 - `hub.css`：总站样式
 - `hub.js`：总站搜索与主播卡片逻辑
+- `favicon.png`：总站浏览器标签页图标（64×64 PNG）
 - `aibomen.json`：主播登记表
 - `aibomen/`：每位爱播的独立目录
 - `aibomen/index.html`：访问 `/aibomen/` 时返回总站
