@@ -3,7 +3,7 @@ const state = {
   filtered: [],
   genre: "全部",
   query: "",
-  view: localStorage.getItem("songlist-view") || "list"
+  view: localStorage.getItem("songlist-view-aoi-yui") || "list"
 };
 
 const el = {
@@ -165,7 +165,7 @@ function renderFilters() {
 
 function setView(view) {
   state.view = view;
-  localStorage.setItem("songlist-view", view);
+  localStorage.setItem("songlist-view-aoi-yui", view);
   el.songList.classList.toggle("list-view", view === "list");
   el.songList.classList.toggle("grid-view", view === "grid");
   el.listBtn.classList.toggle("active", view === "list");
