@@ -6,14 +6,20 @@
       "name": "苍井结衣_",
       "avatar": "aibomen/aoi-yui/avatar.webp",
       "url": "aibomen/aoi-yui/",
-      "description": "J-POP · 术力口 · 游戏动漫 · 中文",
+      "description": "接收外星人的电波⚡👽",
       "status": "歌单已上线",
       "keywords": [
         "苍井结衣",
         "aoi",
         "yui",
         "歌单",
-        "点歌"
+        "点歌",
+        "J-POP",
+        "术力口",
+        "VOCALOID",
+        "游戏动漫",
+        "动漫",
+        "中文"
       ]
     },
     {
@@ -21,13 +27,16 @@
       "name": "莉由_riyu",
       "avatar": "aibomen/riyu/avatar.webp",
       "url": "aibomen/riyu/",
-      "description": "中文 · 英文 · 日文",
+      "description": "莉由会一直都在，要多来点歌哦♪  ~",
       "status": "歌单已上线",
       "keywords": [
         "莉由",
         "riyu",
         "歌单",
-        "点歌"
+        "点歌",
+        "中文",
+        "英文",
+        "日文"
       ]
     },
     {
@@ -35,7 +44,7 @@
       "name": "雪鹤千绪Kira",
       "avatar": "aibomen/kira/avatar.webp?v=3",
       "url": "aibomen/kira/",
-      "description": "流行 · 古风 · 外语",
+      "description": "送财狐狸也送歌🧧",
       "status": "歌单已上线",
       "keywords": [
         "雪鹤千绪",
@@ -43,7 +52,10 @@
         "Kira",
         "kira",
         "歌单",
-        "点歌"
+        "点歌",
+        "流行",
+        "古风",
+        "外语"
       ]
     }
   ]
