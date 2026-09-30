@@ -17,6 +17,7 @@
 - `aibomen/aoi-yui/`：苍井结衣_
 - `aibomen/riyu/`：莉由_riyu
 - `aibomen/kira/`：雪鹤千绪Kira
+- `aibomen/niko/`：妙音娘子Niko
 
 每位主播目录可以独立拥有：
 
@@ -53,6 +54,10 @@
 雪鹤千绪Kira：
 
 `https://zixian-1418.github.io/zixian-friends/aibomen/kira/`
+
+妙音娘子Niko：
+
+`https://zixian-1418.github.io/zixian-friends/aibomen/niko/`
 
 ## 头像规范
 

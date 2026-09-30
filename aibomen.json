@@ -57,6 +57,24 @@
         "古风",
         "外语"
       ]
+    },
+    {
+      "id": "niko",
+      "name": "妙音娘子Niko",
+      "avatar": "aibomen/niko/avatar.webp",
+      "url": "aibomen/niko/",
+      "description": "主播就是宇宙无敌超级全能啊😎",
+      "status": "歌单已上线",
+      "keywords": [
+        "妙音娘子",
+        "妙音娘子Niko",
+        "Niko",
+        "niko",
+        "歌单",
+        "点歌",
+        "慢歌",
+        "快歌"
+      ]
     }
   ]
 }
