@@ -19,6 +19,7 @@
 - `aibomen/kira/`：雪鹤千绪Kira
 - `aibomen/niko/`：妙音娘子Niko
 - `aibomen/sachie/`：幸弥Sachie
+- `aibomen/zaozao/`：早早耶_
 
 每位主播目录可以独立拥有：
 
@@ -64,6 +65,10 @@
 
 `https://zixian-1418.github.io/zixian-friends/aibomen/sachie/`
 
+早早耶_：
+
+`https://zixian-1418.github.io/zixian-friends/aibomen/zaozao/`
+
 ## 头像规范
 
 - 主播头像统一使用高质量 WebP，建议尺寸 384×384。
@@ -75,4 +80,5 @@
 - 修改歌单时只编辑对应主播目录里的 `playlist.json`。
 - 新增主播时记得同步更新 `aibomen.json`。
 - `config.json` 作为该主播的维护信息保留；当前网页运行不依赖它。
+
 
