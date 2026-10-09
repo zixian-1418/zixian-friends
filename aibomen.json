@@ -75,38 +75,6 @@
         "慢歌",
         "快歌"
       ]
-    },
-    {
-      "id": "sachie",
-      "name": "幸弥Sachie",
-      "avatar": "aibomen/sachie/avatar.webp",
-      "url": "aibomen/sachie/",
-      "description": "幸弥的歌单 · 来挑一首喜欢的歌吧",
-      "status": "歌单已上线",
-      "keywords": [
-        "幸弥",
-        "幸弥Sachie",
-        "Sachie",
-        "sachie",
-        "歌单",
-        "点歌"
-      ]
-    },
-    {
-      "id": "zaozao",
-      "name": "早早耶_",
-      "avatar": "aibomen/zaozao/avatar.webp",
-      "url": "aibomen/zaozao/",
-      "description": "早早的歌单 · 来挑一首喜欢的歌吧",
-      "status": "歌单已上线",
-      "keywords": [
-        "早早",
-        "早早耶",
-        "早早耶_",
-        "zaozao",
-        "歌单",
-        "点歌"
-      ]
     }
   ]
 }
