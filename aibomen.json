@@ -75,6 +75,22 @@
         "慢歌",
         "快歌"
       ]
+    },
+    {
+      "id": "sachie",
+      "name": "幸弥Sachie",
+      "avatar": "aibomen/sachie/avatar.webp",
+      "url": "aibomen/sachie/",
+      "description": "幸弥的歌单 · 来挑一首喜欢的歌吧",
+      "status": "歌单已上线",
+      "keywords": [
+        "幸弥",
+        "幸弥Sachie",
+        "Sachie",
+        "sachie",
+        "歌单",
+        "点歌"
+      ]
     }
   ]
 }
